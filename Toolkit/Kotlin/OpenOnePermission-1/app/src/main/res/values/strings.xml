@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenOnePermission-1</string>
+    <string name="Title">這是一個要求一個危險權限的範例，要注意這個危險權限集只有一個危險權限元素，也就是CAMERA。</string>
+</resources>
